@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dokkaebi.inventory",
+      "sha256_cert_fingerprints": [
+        "BA:59:BD:7D:F7:1D:E7:1E:38:88:3F:4D:B7:B5:63:10:83:83:1E:29:3D:BE:FF:0C:24:A4:7F:C6:D8:22:0E:B8"
+      ]
+    }
+  }
+]
